@@ -1,0 +1,5 @@
+saasis§§Friend123
+1§§May 05, 2022 (16:43:09)§§account creation§§100
+2§§May 05, 2022 (16:43:29)§§deposit§§100.0
+3§§May 05, 2022 (16:43:50)§§withdrawal§§-15.0
+4§§May 05, 2022 (16:44:44)§§gift§§35.0
